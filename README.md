@@ -1,1 +1,1 @@
-# Simplex-PL
+# Método Simplex para a Disciplina de Programação Linear
